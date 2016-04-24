@@ -1,0 +1,14 @@
+layout_spectrum: 0.1885729490313679
+typography_spectrum: 0.13533925963565707
+color:
+  brandStrength: 0.055395419942215085
+  lightness: 0.7081915703602135
+  saturation: 0.6974920148495585
+  rhythmicContrast: 0.7456731956917793
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: coffees
