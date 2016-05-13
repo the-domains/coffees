@@ -1,11 +1,11 @@
 ---
 description: ''
-dateModified: '2016-05-13T05:20:08.900Z'
+dateModified: '2016-05-13T05:20:09.937Z'
 title: Cowboy Coffee
 author: []
-datePublished: '2016-05-13T05:20:09.168Z'
+datePublished: '2016-05-13T05:20:10.250Z'
 sourcePath: _posts/2016-04-25-cowboy-coffee.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
