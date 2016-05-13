@@ -1,11 +1,11 @@
 ---
 description: ''
-dateModified: '2016-05-13T05:19:47.858Z'
+dateModified: '2016-05-13T05:19:53.642Z'
 title: The Perfect Shot
 author: []
-datePublished: '2016-05-13T05:19:48.237Z'
+datePublished: '2016-05-13T05:19:54.008Z'
 sourcePath: _posts/2016-04-25-the-perfect-shot.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
