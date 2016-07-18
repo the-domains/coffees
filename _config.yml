@@ -13,11 +13,11 @@ color:
     - '#DB4105'
 name: coffees
 navigation:
-  - id: 7d696ac1-808c-46a9-93d4-895298707f8c
-    url: 2016-04-25-the-perfect-shot.html
-    name: The Perfect Shot
-    type: content
   - id: 'http://onedropcoffee.com/'
     url: 'http://onedropcoffee.com/'
     name: One Drop Coffee
     type: external
+  - id: 7d696ac1-808c-46a9-93d4-895298707f8c
+    url: 2016-04-25-the-perfect-shot.html
+    name: The Perfect Shot
+    type: content
