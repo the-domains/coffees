@@ -21,3 +21,7 @@ navigation:
     url: 'http://onedropcoffee.com/'
     name: One Drop Coffee
     type: external
+  - id: 77d0f1cc-7102-493a-8d68-58c00554a184
+    url: 2016-04-25-chic.html
+    name: Chic
+    type: content
