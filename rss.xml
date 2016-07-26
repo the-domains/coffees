@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[coffees]]></title>
+        <description><![CDATA[coffees]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jul 2016 02:31:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ESPN: The Worldwide Leader in Sports]]></title>
+            <description><![CDATA[<article><h1>ESPN: The Worldwide Leader in Sports</h1><p>Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and commentary for NFL, MLB, NBA, College Football, NCAA Basketball and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3d6f1001420393a9aa4ff7b7bc69bb55/noop.jpg?input=http%3A%2F%2Fa1.espncdn.com%2Fcombiner%2Fi%3Fimg%3D%2Fmedia%2Fmotion%2F2016%2F0723%2Fdm_160723_ufc_holm_shevchenko%2Fdm_160723_ufc_holm_shevchenko.jpg"></article>]]></description>
+            <link>http://espn.go.com/</link>
+            <guid isPermaLink="false">dddbf983-20e8-4b7f-aa78-ed3e3a114f9c</guid>
+            <pubDate>Tue, 26 Jul 2016 02:31:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
