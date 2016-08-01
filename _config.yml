@@ -13,12 +13,12 @@ color:
     - '#DB4105'
 name: coffees
 navigation:
-  - name: The Perfect Shot
+  - name: test
     id: 7d696ac1-808c-46a9-93d4-895298707f8c
     type: content
   - name: One Drop Coffee
     url: 'http://onedropcoffee.com/'
     type: external
-  - name: Latte Art
+  - name: test
     id: 6156e4f7-35e9-48f9-9c84-e4397c39fb99
     type: content
