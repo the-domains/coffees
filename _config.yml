@@ -25,5 +25,7 @@ navigation:
   - name: test
     id: 6156e4f7-35e9-48f9-9c84-e4397c39fb99
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/69e2fd8a-3b35-4945-9c98-49362eb639eb.png
 title: Coffee
 description: I love coffee
