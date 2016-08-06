@@ -1,5 +1,4 @@
 typography_spectrum: 0.7197891601826996
-style: the-composer
 color:
   brandStrength: 0.5814404785633087
   lightness: 0.3894053774420172
@@ -12,7 +11,10 @@ color:
     - '#9FB4CC'
     - '#DB4105'
 layout_spectrum: 0.3471159813925624
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b503839-3fe7-417f-930b-eca6e3d4ccd7.png
 name: coffees
+style: the-composer
 navigation:
   - name: test
     id: 7d696ac1-808c-46a9-93d4-895298707f8c
