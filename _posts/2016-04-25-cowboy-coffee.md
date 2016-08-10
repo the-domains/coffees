@@ -1,10 +1,12 @@
 ---
-description: ''
-dateModified: '2016-05-13T05:20:22.542Z'
+description: Coffee on the beach made on a fire
+dateModified: '2016-08-10T14:47:17.150Z'
 title: Cowboy Coffee
 author: []
-datePublished: '2016-05-13T05:20:22.956Z'
+datePublished: '2016-08-10T14:47:17.546Z'
 sourcePath: _posts/2016-04-25-cowboy-coffee.md
+publisher: {}
+via: {}
 starred: true
 inFeed: true
 hasPage: false
@@ -12,4 +14,4 @@ inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54f81988-e538-42d8-a23f-2e89a7b68a28.jpg" /><h1>Cowboy Coffee</h1></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54f81988-e538-42d8-a23f-2e89a7b68a28.jpg" /><h1>Cowboy Coffee</h1><p>Coffee on the beach made on a fire</p></article>
