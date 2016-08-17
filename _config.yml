@@ -22,7 +22,7 @@ navigation:
   - name: One Drop Coffee
     url: 'http://onedropcoffee.com/'
     type: external
-  - name: test
+  - name: Title
     id: 6156e4f7-35e9-48f9-9c84-e4397c39fb99
     type: content
 favicon: >-
