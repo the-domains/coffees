@@ -1,9 +1,9 @@
 ---
 description: Coffee on the beach made on a fire
-dateModified: '2016-08-10T14:47:17.150Z'
+dateModified: '2016-09-01T17:38:01.575Z'
 title: Cowboy Coffee
 author: []
-datePublished: '2016-08-10T14:47:17.546Z'
+datePublished: '2016-09-01T17:38:01.956Z'
 sourcePath: _posts/2016-04-25-cowboy-coffee.md
 publisher: {}
 via: {}
