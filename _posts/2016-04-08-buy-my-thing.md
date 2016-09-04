@@ -6,18 +6,14 @@ isBasedOnUrl: 'https://thegrid.io/purchase/pause/'
 inLanguage: null
 keywords: []
 description: Sell my stuff
-datePublished: '2016-09-01T17:38:01.957Z'
-dateModified: '2016-09-01T17:38:01.575Z'
+datePublished: '2016-09-01T17:40:12.044Z'
+dateModified: '2016-09-01T17:40:11.536Z'
 title: ''
 author:
   - name: ''
     url: ''
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 sourcePath: _posts/2016-04-08-buy-my-thing.md
 via: {}
 starred: false
