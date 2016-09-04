@@ -4,20 +4,23 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://thegrid.io/purchase/pause/'
 inLanguage: null
-starred: false
 keywords: []
 description: Sell my stuff
-datePublished: '2016-08-17T13:49:17.775Z'
-dateModified: '2016-04-08T23:13:35.310Z'
-title: Buy my thing
-author: []
+datePublished: '2016-09-01T17:38:01.957Z'
+dateModified: '2016-09-01T17:38:01.575Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 sourcePath: _posts/2016-04-08-buy-my-thing.md
+via: {}
+starred: false
 _type: MediaObject
 
 ---
